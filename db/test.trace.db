@@ -1,0 +1,32 @@
+2023-08-07 20:51:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE Figuras(\000a    id VARCHAR(36) PRIMARY KEY,\000a    figura VARCHAR(100) NOT NULL,\000a    cor     VARCHAR(100) NOT NULL,\000a[*])\000a"; expected "identifier"; SQL statement:
+CREATE TABLE Figuras(
+    id VARCHAR(36) PRIMARY KEY,
+    figura VARCHAR(100) NOT NULL,
+    cor     VARCHAR(100) NOT NULL,
+)
+ [42001-220]
+2023-08-07 20:57:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE Figuras(\000a    id VARCHAR(36) PRIMARY KEY,\000a    figura VARCHAR(100) NOT NULL,\000a    cor     VARCHAR(100) NOT NULL,\000a[*])\000a"; expected "identifier"; SQL statement:
+CREATE TABLE Figuras(
+    id VARCHAR(36) PRIMARY KEY,
+    figura VARCHAR(100) NOT NULL,
+    cor     VARCHAR(100) NOT NULL,
+)
+ [42001-220]
+2023-08-07 20:58:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE Figuras(\000a    id VARCHAR(36) PRIMARY KEY,\000a    figura VARCHAR(100) NOT NULL,\000a    cor     VARCHAR(100) NOT NULL,\000a[*])\000a"; expected "identifier"; SQL statement:
+CREATE TABLE Figuras(
+    id VARCHAR(36) PRIMARY KEY,
+    figura VARCHAR(100) NOT NULL,
+    cor     VARCHAR(100) NOT NULL,
+)
+ [42001-220]
+2023-08-07 22:44:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE Figuras(\000a    id VARCHAR(36) PRIMARY KEY,\000a    figura VARCHAR(100) NOT NULL,\000a    cor     VARCHAR(100) NOT NULL,\000a[*])\000a"; expected "identifier"; SQL statement:
+CREATE TABLE Figuras(
+    id VARCHAR(36) PRIMARY KEY,
+    figura VARCHAR(100) NOT NULL,
+    cor     VARCHAR(100) NOT NULL,
+)
+ [42001-220]
